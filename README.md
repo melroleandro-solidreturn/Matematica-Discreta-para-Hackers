@@ -4,50 +4,50 @@ Este Conjunto de Notebooks tem como principal objetivo proporcionar uma introdu�
 
 Uma parte considerável destas notas tem sido utilizada por alunos do primeiro ano de um curso de Engenharia Multimédia. Aqui, enfatizamos a importância da autoaprendizagem em Matemática e Programação, áreas de estudo que frequentemente registam altos níveis de insucesso devido à dedicação e empenho inicialmente requeridos, que muitas vezes os alunos não estão dispostos a dispensar na ausência de motivação adequada. Esperamos que a programação estimule o interesse pela matemática e que esta forneça problemas de algoritmos interessantes para implementação
 
-1 Introdução Python
+1 Introdução Python https://github.com/melroleandro-solidreturn/Matematica-Discreta-para-Hackers/blob/main/Chapter1_Introducao.ipynb
 
 O capítulo 'Introdução Python' tem como objetivo fornecer aos alunos uma base sólida em programação Python, que será fundamental para o entendimento e implementação dos conceitos de Matemática Discreta abordados ao longo deste notebook. Começaremos com os fundamentos da linguagem, como variáveis, operadores, estruturas de controle e funções, antes de avançar para conceitos mais avançados, como listas, dicionários e funções lambda. A ideia é garantir que os alunos tenham as habilidades de programação necessárias para explorar e experimentar com os conceitos matemáticos de forma eficaz. Além disso, abordaremos como a programação pode ser uma ferramenta poderosa para resolver problemas matemáticos de forma eficiente e precisa.
 
-2 Lógica proposicional
+2 Lógica proposicional https://github.com/melroleandro-solidreturn/Matematica-Discreta-para-Hackers/blob/main/Chapter2_Calculo_Proposicional.ipynb
 
 O capítulo 'Lógica proposicional' tem como objetivo introduzir os alunos aos fundamentos da lógica proposicional, que é a base para a compreensão de argumentos e raciocínios matemáticos. Iniciaremos com os conceitos básicos, como proposições simples, conectivos lógicos (e, ou, não, implicação e bi-implicação) e tabelas verdade. Abordaremos também as principais leis da lógica proposicional, como a lei da identidade, lei da contradição e lei do terceiro excluído. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar esses conceitos e leis para construir e analisar argumentos lógicos. A programação será utilizada como uma ferramenta para validar e demonstrar as propriedades lógicas, permitindo uma compreensão mais profunda e interativa do tema
 
-3 Dedução Natural
+3 Dedução Natural https://github.com/melroleandro-solidreturn/Matematica-Discreta-para-Hackers/blob/main/Chapter3_Deducao_Natural.ipynb
 
 O capítulo 'Dedução Natural' tem como foco a introdução dos alunos aos métodos de prova em lógica proposicional através da dedução natural. Exploraremos as regras de inferência básicas, como introdução e eliminação de conectivos, bem como a construção de provas formais para demonstrar a validade de argumentos lógicos. Os alunos aprenderão a aplicar as regras de dedução natural para construir provas válidas e a utilizar a programação para auxiliar na verificação e validação dessas provas. Através de exemplos práticos e exercícios, os alunos serão incentivados a desenvolver habilidades de raciocínio lógico e a compreender a estrutura e a organização das provas formais em lógica proposicional.
 
-4 Lógica de predicados
+4 Lógica de predicados https://github.com/melroleandro-solidreturn/Matematica-Discreta-para-Hackers/blob/main/Chapter4_Logica_de_predicados.ipynb
 
 O capítulo 'Lógica de predicados' introduzirá os alunos aos conceitos fundamentais da lógica de predicados, que estende a lógica proposicional para lidar com quantificadores e predicados. Exploraremos os elementos básicos da lógica de predicados, incluindo variáveis, quantificadores universais e existenciais, e conectivos lógicos aplicados a predicados. Abordaremos também a construção de provas formais em lógica de predicados utilizando a dedução natural, permitindo aos alunos aplicar as regras de inferência e construir provas válidas em um contexto mais rico e expressivo. Através de exemplos práticos e exercícios, os alunos serão incentivados a desenvolver habilidades avançadas de raciocínio lógico e a compreender a complexidade e a flexibilidade da lógica de predicados.
 
-5 Teoria de Conjuntos
+5 Teoria de Conjuntos https://github.com/melroleandro-solidreturn/Matematica-Discreta-para-Hackers/blob/main/Chapter5_Teoria_de_conjuntos.ipynb
 
 O capítulo 'Teoria de Conjuntos' tem como objetivo introduzir os alunos aos conceitos fundamentais da teoria de conjuntos, que é uma parte essencial da matemática discreta. Exploraremos os elementos básicos dos conjuntos, como definição, representação, subconjuntos, união, interseção e diferença. Além disso, abordaremos tópicos avançados como conjuntos infinitos, operações entre conjuntos e diagramas de Venn. Utilizaremos a programação Python para demonstrar e explorar esses conceitos, permitindo aos alunos visualizar e manipular conjuntos de forma interativa. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos da teoria de conjuntos para resolver problemas e construir argumentos matemáticos de forma rigorosa e precisa.
 
-6 Complementos de Python
+6 Complementos de Python (Em revisão) 
 
 O capítulo 'Complementos de Python' visa aprofundar e expandir o conhecimento dos alunos em programação Python, focando em tópicos e técnicas que são particularmente úteis para a implementação de algoritmos e estruturas matemáticas discutidas anteriormente. Abordaremos tópicos como manipulação avançada de listas, compreensão de listas, tuplas, conjuntos e dicionários. Além disso, exploraremos funções avançadas, classes e objetos em Python, bem como a manipulação de arquivos e exceções. O objetivo é equipar os alunos com as habilidades de programação necessárias para implementar e experimentar com algoritmos e estruturas matemáticas de forma eficaz e eficiente. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos aprendidos em situações reais e a desenvolver soluções robustas e elegantes em Python.
 
-7 Relações de ordem e de equivalência
+7 Relações de ordem e de equivalência (Em revisão) 
 
 O capítulo 'Relações de ordem e de equivalência' tem como objetivo introduzir os alunos aos conceitos fundamentais das relações de ordem e de equivalência, que são cruciais para o estudo da matemática discreta e suas aplicações. Exploraremos as definições e propriedades das relações de ordem parcial e total, bem como as relações de equivalência. Abordaremos tópicos como elementos maximal e minimal, conjuntos ordenados, classes de equivalência, partições e teorema fundamental das relações de equivalência. Utilizaremos a programação Python para ilustrar e analisar esses conceitos, permitindo aos alunos visualizar e manipular relações e conjuntos de forma interativa. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos de relações de ordem e de equivalência para resolver problemas e construir argumentos matemáticos de forma rigorosa e precisa.
 
-7 Relações de ordem e de equivalência
+7 Relações de ordem e de equivalência (Em revisão) 
 
 O capítulo 'Relações de ordem e de equivalência' tem como objetivo introduzir os alunos aos conceitos fundamentais das relações de ordem e de equivalência, que são cruciais para o estudo da matemática discreta e suas aplicações. Exploraremos as definições e propriedades das relações de ordem parcial e total, bem como as relações de equivalência. Abordaremos tópicos como elementos maximal e minimal, conjuntos ordenados, classes de equivalência, partições e teorema fundamental das relações de equivalência. Utilizaremos a programação Python para ilustrar e analisar esses conceitos, permitindo aos alunos visualizar e manipular relações e conjuntos de forma interativa. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos de relações de ordem e de equivalência para resolver problemas e construir argumentos matemáticos de forma rigorosa e precisa.
 
-8 Estruturas Algébricas
+8 Estruturas Algébricas (Em revisão) 
 
 O capítulo 'Estruturas Algébricas' tem como foco introduzir os alunos aos conceitos fundamentais das estruturas algébricas, que são essenciais para a compreensão e aplicação da álgebra em matemática discreta. Exploraremos diferentes tipos de estruturas algébricas, incluindo grupos, anéis e corpos, e suas propriedades associativas, comutativas e distributivas. Abordaremos também subestruturas, homomorfismos e isomorfismos entre estruturas algébricas. Utilizaremos a programação Python para demonstrar e explorar esses conceitos, permitindo aos alunos visualizar e manipular estruturas algébricas de forma interativa. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos de estruturas algébricas para resolver problemas e construir argumentos matemáticos de forma rigorosa e precisa.
 
-9 Gramáticas e autómatos
+9 Gramáticas e autómatos (Em revisão) 
 
 O capítulo 'Gramáticas e autómatos' tem como objetivo introduzir os alunos aos conceitos fundamentais das gramáticas formais e dos autómatos finitos, que são centrais para o estudo da teoria da computação e linguagens formais. Exploraremos diferentes tipos de gramáticas, como gramáticas regulares, livres de contexto e sensíveis ao contexto, e os correspondentes autómatos finitos, autómatos de pilha e máquinas de Turing. Abordaremos tópicos como produções, linguagens geradas por gramáticas, reconhecedores, decidibilidade e complexidade computacional. Utilizaremos a programação Python para demonstrar e explorar esses conceitos, permitindo aos alunos visualizar e simular o funcionamento de autómatos e a manipulação de linguagens formais de forma interativa. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos de gramáticas e autómatos para resolver problemas e construir argumentos matemáticos de forma rigorosa e precisa.
 
-10 A biblioteca PyGame
+10 A biblioteca PyGame (Em revisão) 
 
 O capítulo 'A biblioteca PyGame' tem como objetivo introduzir os alunos à biblioteca PyGame, que é uma ferramenta poderosa para o desenvolvimento de jogos e aplicações gráficas em Python. Exploraremos os conceitos básicos de PyGame, como a inicialização de janelas, manipulação de eventos, desenho de formas e textos, animações e interações com o usuário. Abordaremos também tópicos avançados, como a detecção de colisões, reprodução de áudio e implementação de lógica de jogo. Utilizaremos a programação Python e a biblioteca PyGame para desenvolver e explorar exemplos práticos de jogos simples, permitindo aos alunos aprenderem a criar seus próprios jogos e aplicações interativas. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos de programação e matemática discreta para desenvolver jogos e soluções interativas de forma criativa e engajante.
 
-11 Teoria de grafos
+11 Teoria de grafos (Em revisão) 
 
 O capítulo 'Teoria de grafos' tem como objetivo introduzir os alunos aos conceitos fundamentais da teoria de grafos, que é uma área essencial da matemática discreta com diversas aplicações em ciência da computação, engenharia e outras áreas. Exploraremos os elementos básicos dos grafos, incluindo vértices, arestas, grafos direcionados e não direcionados, grafos ponderados e não ponderados, além de tópicos como caminhos, ciclos, árvores e planaridade. Abordaremos também algoritmos clássicos de grafos, como busca em profundidade, busca em largura, algoritmo de Dijkstra e algoritmo de Kruskal. Utilizaremos a programação Python para demonstrar e explorar esses conceitos, permitindo aos alunos visualizar e manipular grafos de forma interativa. Através de exemplos práticos e exercícios, os alunos serão incentivados a aplicar os conceitos de teoria de grafos para resolver problemas e construir soluções eficientes e elegantes em algoritmos e estruturas de dados.
